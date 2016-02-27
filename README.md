@@ -1,0 +1,2 @@
+# php-docker
+　Dockerコンテナーにphpをインストールしてみます。
